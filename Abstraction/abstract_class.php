@@ -49,16 +49,19 @@ class Tesla extends Car
 }
 
 $toyota = new Toyota("Toyota");
+echo "Brand: " . $toyota->getBrand() . "\n";
 echo $toyota->start() . "\n";
 echo "Engine: " . $toyota->engine() . "\n";
 echo $toyota->stop() . "\n\n";
 
 $bmw = new BMW("BMW");
+echo "Brand: " . $bmw->getBrand() . "\n";
 echo $bmw->start() . "\n";
 echo "Engine: " . $bmw->engine() . "\n";
 echo $bmw->stop() . "\n\n";
 
 $tesla = new Tesla("Tesla");
+echo "Brand: " . $tesla->getBrand() . "\n";
 echo $tesla->start() . "\n";
 echo "Engine: " . $tesla->engine() . "\n";
 echo $tesla->stop() . "\n";
