@@ -9,6 +9,9 @@ $topics = [
     "Encapsulation" => [
         "Bank Account" => "Encapsulation/bank_account.php",
     ],
+    "Inheritance" => [
+        "Inheritance" => "Inheritance/inheritance.php",
+    ],
 ];
 
 ?>

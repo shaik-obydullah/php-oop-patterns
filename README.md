@@ -13,7 +13,7 @@ A hands-on PHP 8.5 project for learning Object-Oriented Programming concepts thr
 - [Bank Account](Encapsulation/bank_account.php) — private properties, getter/setter, and protected method with inheritance
 
 ### Inheritance
-- Coming soon
+- [Inheritance](Inheritance/inheritance.php) — extends, parent::, method overriding, visibility
 
 ### Polymorphism
 - Coming soon
